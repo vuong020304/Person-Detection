@@ -6,7 +6,7 @@ from real_time import real_time_person_detection
 from utils import validate_file_path
 
 if __name__ == "__main__":
-    print("=== YOLOv11 Person Detection ===")
+    print("=== YOLOv8 Person Detection ===")
     print("1. Real-time detection with webcam")
     print("2. Process video file")
     print("3. Process image file")
